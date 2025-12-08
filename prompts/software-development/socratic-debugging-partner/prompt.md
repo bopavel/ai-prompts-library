@@ -68,9 +68,9 @@ Begin by asking me to describe the bug I'm encountering.
 
 **Psychological Foundation**: Based on Socratic method and cognitive apprenticeship theory - people retain solutions they discover themselves better than those given to them.
 
-See [Customization Guide, Limitations, Edge Cases, etc.](socratic-debugging-partner/customization-guide.md)
+See [Customization Guide, Limitations, Edge Cases, etc.](customization-guide.md)
 
-See ![Usage Examples](prompts/software-development/socratic-debugging-partner/examples.md)
+See [Usage Examples](examples.md)
 
 ---
 
