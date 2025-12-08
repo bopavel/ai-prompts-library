@@ -4,11 +4,11 @@ A curated collection of highly specific, tested AI prompts designed to elicit pr
 
 ## Philosophy
 
-**Specificity over Generality**: Each [prompt](prompts) is crafted for a particular use case with clear behavioral goals.
+**Specificity**: each [prompt](prompts) is crafted for a particular use case with clear behavioral goals.
 
-**Actionable over Theoretical**: Prompts include real examples, edge cases, and customization guides.
+**Actionable**: prompts include real examples, edge cases, and customization guides.
 
-**Tested over Speculative**: Every prompt has been validated in real-world scenarios.
+**Tested**: every prompt has been validated in real-world scenarios (not speculative).
 
 ## Repository Structure
 ```
