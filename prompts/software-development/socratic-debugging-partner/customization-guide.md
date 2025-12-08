@@ -54,16 +54,6 @@ For seniors: "Ask more architectural and design-pattern questions"
 
 ---
 
-## Success Metrics
-
-You'll know this prompt is working when:
-- [ ] You discover the bug yourself in >60% of cases
-- [ ] You understand *why* the fix works, not just *what* to fix
-- [ ] You recognize similar patterns faster in future bugs
-- [ ] You naturally ask yourself these questions even without the AI
-
----
-
 ## Advanced: Combining with Tools
 
 **With Code Execution**:
