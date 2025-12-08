@@ -4,7 +4,7 @@ A curated collection of highly specific, tested AI prompts designed to elicit pr
 
 ## Philosophy
 
-**Specificity over Generality**: Each prompt is crafted for a particular use case with clear behavioral goals.
+**Specificity over Generality**: Each [prompt](prompts) is crafted for a particular use case with clear behavioral goals.
 
 **Actionable over Theoretical**: Prompts include real examples, edge cases, and customization guides.
 
@@ -15,9 +15,8 @@ A curated collection of highly specific, tested AI prompts designed to elicit pr
 prompts/
 ├── software-development/    # Coding, debugging, architecture
 ├── writing/                 # Content creation, editing
-├── research/               # Analysis, summarization
-├── business/               # Strategy, planning, documentation
-└── education/              # Teaching, learning, explanations
+├── research/                # Analysis, summarization
+├── business/                # Strategy, planning, documentation
 ```
 
 ## How to Use This Repository
