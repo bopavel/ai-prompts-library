@@ -1,6 +1,6 @@
 # AI Prompts Library
 
-A curated collection of highly specific, battle-tested AI prompts designed to elicit precise behaviors and responses. Unlike generic prompt collections, every entry here solves a real problem with a unique approach.
+A curated collection of highly specific, tested AI prompts designed to elicit precise behaviors and responses. Unlike generic prompt collections, every entry here solves a real problem with a unique approach.
 
 ## Philosophy
 
@@ -28,17 +28,10 @@ prompts/
 4. Review the examples to see expected outputs
 5. Customize using the provided guide
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on submitting new prompts.
-
 ## Evaluation Criteria
 
 Prompts in this repository must meet these standards:
 - ✅ Solves a specific, well-defined problem
-- ✅ Demonstrates unique behavioral design
-- ✅ Includes at least 3 real-world examples
-- ✅ Provides customization guidance
 - ✅ Documents edge cases and limitations
 
 ## License
