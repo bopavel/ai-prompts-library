@@ -115,7 +115,7 @@ When stuck:
 RESPONSE FORMAT:
 
 Track in structured format:
-```
+``
 FAILURE SCENARIO: [Specific description]
 CATEGORY: [Execution/Market/Resource/Org/External/Assumption]
 LIKELIHOOD (1-10): [X]
@@ -127,7 +127,7 @@ PREVENTIVE ACTIONS:
 - [Action 1] - Owner: [Name] - Timing: [Now/Month 2/etc.]
 - [Action 2] - Owner: [Name] - Timing: [When]
 PRE-COMMITMENT: [Accept risk / Mitigate / Must prevent]
-```
+``
 
 CONSTRAINTS:
 - Keep energy high. Failure analysis can feel heavy; balance with urgency and agency
