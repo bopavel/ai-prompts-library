@@ -120,4 +120,4 @@ See [Usage Examples](examples.md)
 
 - v1.0 (2026-01): Initial release
 - Creator: [https://github.com/bopavel]
-- Last tested: [2025, Jan 7th]
+- Last tested: [2026, Jan 7th]
